@@ -1,0 +1,3 @@
+It’s a web-based and mobile application aimed at companies and college to connect and hire students through the platform. It's a MVC web application with browser and device compatibility with front-end in AngularJS, HTML, CSS and back-end in ruby on rails framework with MS SQL server as database.
+
+Since it is part of the orgaization, I cannot uploadthe code but feel free to refer the screenshots.  
